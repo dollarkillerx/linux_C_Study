@@ -35,7 +35,8 @@ Linux C Study 嵌入式开发入门
     - 线程
     - TCP/IP
     - socket编程
-学习目标: 
+    
+### 学习目标: 
 - [ ] linux c 基础
 - [ ] socket编程
 - [ ] 基础agent开发
