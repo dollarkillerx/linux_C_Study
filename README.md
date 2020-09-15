@@ -43,4 +43,5 @@ Linux C Study 嵌入式开发入门
 - [ ] 实现一个基础masscan 
 
 ## 参考:
-https://akaedu.github.io/book/
+- https://akaedu.github.io/book/
+- 《Liunx C 与 C++ 一线开发实战》
